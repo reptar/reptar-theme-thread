@@ -1,7 +1,7 @@
 {
   "name": "yarn-theme-thread",
   "version": "0.2.0",
-  "main": "index.js",
+  "main": "_theme.yml",
   "author": "Harry Wolff <hello@hswolff.com> (http://hswolff.com/)",
   "license": "MIT",
   "dependencies": {
