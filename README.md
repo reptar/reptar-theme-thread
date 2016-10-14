@@ -1,3 +1,3 @@
-# yarn-theme-thread
+# reptar-theme-thread
 
-thread theme for yarn.
+thread theme for reptar.
